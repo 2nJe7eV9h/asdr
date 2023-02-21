@@ -1,4 +1,4 @@
-getgenv().AutoBreakCarts = true
+getgenv().AutoBreakCarts = Value
 spawn(function()
 while AutoBreakCarts do wait(0.3)
    pcall(function()
